@@ -1,8 +1,14 @@
-# Meet Sprite downloads
+# Meet Sprite for Mac
 
-Official app binaries and release notes for [Meet Sprite](https://app.meetsprite.com).
+[Download Meet Sprite 0.1 beta](https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610071845/Meet-Sprite-0.1-202610071845-macOS.zip)
 
-Download available builds from [Releases](https://github.com/dessaro-be/meetsprite-releases/releases).
-Each release lists its system requirements and installation instructions.
+Requires macOS 26 or later; supports Apple silicon and Intel.
+Unzip and drag **Meet Sprite.app** into Applications, then open it.
+The app is signed with Developer ID and notarized by Apple.
 
-The application source code is maintained separately. This repository contains distribution files only.
+Updates are checked and downloaded automatically. Use **Meet Sprite → Zoek naar updates…**
+to check immediately, or **App-updates** to change automatic update preferences.
+Updates preserve your account and app data. The original build 202610071630 needs this one-time upgrade.
+
+This repository contains public downloads and the signed update feed only.
+Support: info@meetsprite.com

@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Meet Sprite</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Wed, 07 Oct 2026 18:46:15 +0200</pubDate>
+            <link>https://app.meetsprite.com</link>
+            <sparkle:version>202610071845</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Meet Sprite krijgt een ingebouwde updater voor Mac.
+
+- De app controleert en downloadt updates automatisch.
+- Gebruik Meet Sprite → Zoek naar updates… om meteen te controleren.
+- Pas automatische controles en downloads aan via Meet Sprite → App-updates.
+- Updates behouden je account en appgegevens.
+- Computerinstellingen en foutmeldingen gebruiken nu overal Meet Sprite.
+- Een crash tijdens automatisch scrollen in gesprekken is verholpen.
+
+Vereist macOS 26 of nieuwer; geschikt voor Apple silicon en Intel.
+Deze download is ondertekend met Developer ID en door Apple genotariseerd.
+
+Installatie: pak de ZIP uit en sleep Meet Sprite.app naar Applications.
+Wie de eerste beta (build 202610071630) al installeerde, moet deze versie één keer
+handmatig over de bestaande app zetten. Daarna kunnen updates vanuit de app.
+]]></description>
+            <enclosure url="https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610071845/Meet-Sprite-0.1-202610071845-macOS.zip" length="107391630" type="application/octet-stream" sparkle:edSignature="qZZ0ZpFFO5IN1Qyl9NINYOrP7WOvj4p07v9fj0v3Pr1wwsrYgUbVUjpr4bAvAqSNLwq81coKyZK64W/t1gCUBQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: jo7XDvcEpqA+R47nLN73EchBH5oyFOzE+h+jr2jrKbguTZ4vaY78YCEHnCSbmgxEu1cm88zdtGpTtKaLaGA8Bw==
+length: 2059
+-->
