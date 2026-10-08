@@ -5,20 +5,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Meet Sprite</title>
         <item>
             <title>0.1</title>
-            <pubDate>Wed, 07 Oct 2026 20:59:20 +0200</pubDate>
+            <pubDate>Thu, 08 Oct 2026 19:47:37 +0200</pubDate>
             <link>https://app.meetsprite.com</link>
-            <sparkle:version>202610072047</sparkle:version>
+            <sparkle:version>202610081940</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[## Wat is er nieuw
 
-- **Alle apps in Plug-ins.** Je ziet weer de volledige catalogus van honderden apps en kunt er zelf een toevoegen; daarna verbind je je eigen account.
-- Plug-ins laadt de volledige lijst nu ook als je account even later binnenkomt.
+- **Webpagina's lezen gaat sneller.** Vraag je wat er op een website staat, dan leest je Sprite de pagina meteen. De cloudcomputer komt er alleen nog bij als er echt iets aangeklikt moet worden.
+- **Meer Belgische boekhoudtools in Plug-ins.** Clearfacts, AdminPulse en Yuki verbind je met je eigen sleutel. Andere tools volgen zodra hun makers ons toegang geven.
+- **Peppol.** Je Sprite kijkt na of een Belgisch bedrijf e-facturen via Peppol kan ontvangen, en controleert een UBL-factuur.
+- **Echte logo's** voor de apps in Plug-ins.
 ]]></description>
-            <enclosure url="https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610072047/Meet-Sprite-0.1-202610072047-macOS.zip" length="107372693" type="application/octet-stream" sparkle:edSignature="N0qr/JUtF5O1fCyue7YSNPpizR0c0jQNsZM+x58+3eAs4bLf1upvfpF29gccgP5iG4Lv2VZa7gvciofoluZtBw=="></enclosure>
+            <enclosure url="https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610081940/Meet-Sprite-0.1-202610081940-macOS.zip" length="108169715" type="application/octet-stream" sparkle:edSignature="PR5wX6IWy27JOI7ZBZkkp8V2Enq4hPb7pm5TqTCmcgmPjaWUAoBvQYmIOD9thsJwFs3TtGSwViASki83aeNCCg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: FPq2jvDAg5MVGOtP2dO+3i5Tz3VBeB5sTdt9L+MQYjB2C2yFR6HuWOMDgmwxTw9cx7F5BMHfV9TiyQKvN4MNDA==
-length: 1485
+edSignature: nP+dZnUAU3vC4wXPUfXBCdxjlAgV/pcaPkVDQ1quz6iRXLPxQlD7FyabDlZYZuacEERr3OBzxWN3iedfFqXBAQ==
+length: 1787
 -->
