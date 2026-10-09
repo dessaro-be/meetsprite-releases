@@ -1,6 +1,6 @@
 # Meet Sprite for Mac
 
-[Download Meet Sprite 0.1 beta](https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610081940/Meet-Sprite-0.1-202610081940-macOS.zip)
+[Download Meet Sprite 0.1 beta](https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610090724/Meet-Sprite-0.1-202610090724-macOS.zip)
 
 Requires macOS 26 or later; supports Apple silicon and Intel.
 Unzip and drag **Meet Sprite.app** into Applications, then open it.

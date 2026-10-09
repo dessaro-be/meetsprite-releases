@@ -5,22 +5,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Meet Sprite</title>
         <item>
             <title>0.1</title>
-            <pubDate>Thu, 08 Oct 2026 19:47:37 +0200</pubDate>
+            <pubDate>Fri, 09 Oct 2026 07:30:20 +0200</pubDate>
             <link>https://app.meetsprite.com</link>
-            <sparkle:version>202610081940</sparkle:version>
+            <sparkle:version>202610090724</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## Wat is er nieuw
+            <description sparkle:format="markdown"><![CDATA[## Nieuw in deze update
 
-- **Webpagina's lezen gaat sneller.** Vraag je wat er op een website staat, dan leest je Sprite de pagina meteen. De cloudcomputer komt er alleen nog bij als er echt iets aangeklikt moet worden.
-- **Meer Belgische boekhoudtools in Plug-ins.** Clearfacts, AdminPulse en Yuki verbind je met je eigen sleutel. Andere tools volgen zodra hun makers ons toegang geven.
-- **Peppol.** Je Sprite kijkt na of een Belgisch bedrijf e-facturen via Peppol kan ontvangen, en controleert een UBL-factuur.
-- **Echte logo's** voor de apps in Plug-ins.
+- Een aparte pagina Goed te keuren voor openstaande beslissingen en toestemmingen.
+- Antwoordkeuzes in de chat, met ruimte voor je eigen antwoord.
+- Duidelijkere herinneringen en een eigen pagina Terugkerende taken.
+- Regels op basis van tijd, Sprite-acties en nieuwe gesynchroniseerde gegevens.
+- Rechtstreeks verbinden vanuit de appcatalogus.
+- Vernieuwd bedrijfsbrein en stapsgewijze instelling van je zaak.
+- Uitbreidingen voor Mollie, SumUp, bpost, MyParcel en factuurbestanden.
+
+Gebeurtenisregels werken met verbonden bronnen en bestaande toestemmingen. Nieuwe gegevens worden na synchronisatie herkend.
 ]]></description>
-            <enclosure url="https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610081940/Meet-Sprite-0.1-202610081940-macOS.zip" length="108169715" type="application/octet-stream" sparkle:edSignature="PR5wX6IWy27JOI7ZBZkkp8V2Enq4hPb7pm5TqTCmcgmPjaWUAoBvQYmIOD9thsJwFs3TtGSwViASki83aeNCCg=="></enclosure>
+            <enclosure url="https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610090724/Meet-Sprite-0.1-202610090724-macOS.zip" length="109243197" type="application/octet-stream" sparkle:edSignature="7PXgQL80ef1ARD+qTl5sa+e6HPJYOeq/ldhe8PUvncoEkN+0FFjBU4BzNTXu+Es+zZjPqX+RC1VDAJ3DbtFPAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: nP+dZnUAU3vC4wXPUfXBCdxjlAgV/pcaPkVDQ1quz6iRXLPxQlD7FyabDlZYZuacEERr3OBzxWN3iedfFqXBAQ==
-length: 1787
+edSignature: rBnSOQ689CO6R/ds+IeaI5w6jx5MK9r35I6+O+juTzdPyyebxdMqWgN4vATBAKqmsuJ4PUFLxKzYZJvhfPU7Dw==
+length: 1868
 -->
