@@ -5,25 +5,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Meet Sprite</title>
         <item>
             <title>0.1</title>
-            <pubDate>Sun, 11 Oct 2026 11:27:13 +0200</pubDate>
+            <pubDate>Sun, 11 Oct 2026 12:32:00 +0200</pubDate>
             <link>https://app.meetsprite.com</link>
-            <sparkle:version>202610111116</sparkle:version>
+            <sparkle:version>202610111222</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[## Nieuw in deze update
 
-- Tags staan nu in je zin: een Sprite, app of skill die je met @ of + toevoegt, verschijnt als chip op de plek waar je typt en blijft daar staan in het verstuurde bericht.
-- Het @- en +-menu is beter ingedeeld: de eigen tools van je Sprite (zoals Routines en Geheugen) staan apart van je apps, en alleen apps die echt verbonden zijn worden getoond.
-- In de appcatalogus heet de knop nu Verbinden en ga je met één klik meteen naar de aanmelding.
-- Elke schrijfactie in een verbonden app wacht op je goedkeuring.
-- Kantoorverbindingen: een kantoor verbindt een app één keer, medewerkers gebruiken ze met hun rol.
-- Meerdere accounts per app, en routines die starten bij nieuwe mail en een antwoord als concept klaarzetten.
-- Hulp bij een captcha en een vlottere cloudcomputer.
+- Het bedrijfsbrein is helemaal vernieuwd: een duidelijk overzicht van wat je Sprite al weet, de open vragen met één knop om ze te beantwoorden, en per onderwerp hoe ver je staat.
+- Kennis en bronnen in overzichtelijke kaarten, met de status van elke bron en waar elk feit vandaan komt.
+- Feiten pas je aan of voeg je toe op de plek zelf.
 ]]></description>
-            <enclosure url="https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610111116/Meet-Sprite-0.1-202610111116-macOS.zip" length="109429635" type="application/octet-stream" sparkle:edSignature="sWqTy/BY61glnf0wI+YvDvSDBCDzii5TIGhSnr2KE0H+tAV55wxohcrqSnriMD720THnk4nQBBN2UpTMEmksCw=="></enclosure>
+            <enclosure url="https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610111222/Meet-Sprite-0.1-202610111222-macOS.zip" length="109713095" type="application/octet-stream" sparkle:edSignature="sJlI99K+ISrRU5Z3QvnglIDLIP5+VOxoqEG+RVb9yrt6V2kXRPs9lZQmhMwE4ELs2WIdcrbpQDkbQuRtJBMkAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 5rOXyqoVwHiRrY9HLcyF/vXbAvdAclxQuHRwYz7d2ziMP8lNwVA0QC9AlLT8JdhlZ9ade9SQ54xGsGyMD9GaAg==
-length: 2037
+edSignature: 94gwM980ei34w0/osLX5bei2AM6VKXbHWwUJI2ThrHjZyb39yZJwvVR42S0XkcGUtQw5wsAqfVmWtqXUXFSJAA==
+length: 1599
 -->
