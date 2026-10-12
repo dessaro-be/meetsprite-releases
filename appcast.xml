@@ -5,23 +5,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Meet Sprite</title>
         <item>
             <title>0.1</title>
-            <pubDate>Sun, 11 Oct 2026 14:27:43 +0200</pubDate>
+            <pubDate>Mon, 12 Oct 2026 09:02:43 +0200</pubDate>
             <link>https://app.meetsprite.com</link>
-            <sparkle:version>202610111416</sparkle:version>
+            <sparkle:version>202610120856</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## Nieuw in deze update
-
-- Rustiger gesprek: geen "Klaar · x stappen" en geen gezichtje meer onder een antwoord; tags in je bericht tonen het icoon van de app of Sprite.
-- Als je Sprite een vraag stelt met een paar logische antwoorden, tik je gewoon op een knop.
-- Tijd en datum kloppen altijd: routines, herinneringen en "vandaag" volgen je eigen tijdzone, ook na de overgang naar wintertijd.
-- Terugkerende taken kunnen starten bij een nieuwe mail, en app-acties hebben duidelijke namen per app.
-- "Je zaak" werkt voor elke sector, met minder vragen en kortere teksten.
+            <description sparkle:format="markdown"><![CDATA[- Sprites antwoorden sneller: het antwoord begint meteen binnen te stromen en "denkt na" stopt zodra het antwoord er is.
+- Minder achtergrondverkeer tijdens een gesprek.
 ]]></description>
-            <enclosure url="https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610111416/Meet-Sprite-0.1-202610111416-macOS.zip" length="109817379" type="application/octet-stream" sparkle:edSignature="n7Ir8r3SYecACsa06vF4CWQsMX0uv7ndJgE5Myni+1gMTk1SotiSjfhfC5ttak50T2efI4s3eptjtb1RnhTzCQ=="></enclosure>
+            <enclosure url="https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610120856/Meet-Sprite-0.1-202610120856-macOS.zip" length="109815994" type="application/octet-stream" sparkle:edSignature="xBEcga+wem0hjQSq467I0dtm0t2U/WBWci4JiQzWxrhbO/gZemA50iVfjxFBxoMEdS5JXIGg7M3zyiLu0WI/DA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: y3zIHkDl4yB4jrG2LfYTX6ou0ZnltfDeFrjMPC72Wkui4V4Br7/NijQV5rObGuPdfwc0RIGiVBeWpVxJ7QbyBA==
-length: 1806
+edSignature: Ieuh7NX43UMhYbts4rtvdYx73o+OYyj57uu4O1rTNcZ7b4GOaqGNDExaFKiW61edoF3gL8+xzPJHxxXBWfGHAA==
+length: 1403
 -->
