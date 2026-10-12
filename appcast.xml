@@ -5,20 +5,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Meet Sprite</title>
         <item>
             <title>0.1</title>
-            <pubDate>Mon, 12 Oct 2026 14:49:18 +0200</pubDate>
+            <pubDate>Mon, 12 Oct 2026 15:20:15 +0200</pubDate>
             <link>https://app.meetsprite.com</link>
-            <sparkle:version>202610121440</sparkle:version>
+            <sparkle:version>202610121513</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Taken is één tijdlijn: herinneringen en wat je Sprites later doen, per moment (Te laat, Vandaag, Later).
-- Routines heet nu zo, met iconen die zeggen wat ze zijn; doelen zijn voorlopig verborgen.
-- Een geciteerd bericht heeft geen balk meer links; de cloudcomputer toont minder uitleg.
-- Echte gevulde iconen in het Bedrijfsbrein en de Instellingen.
+            <description sparkle:format="markdown"><![CDATA[- Binnenkort: in het gesprek met je Sprite zie je wat er gepland staat; een klik opent het overzicht ernaast. Taken staat niet meer in de zijbalk.
+- Vastgezette Sprites staan bovenaan als grote gezichten, zoals op de iPhone.
+- Nieuwe iconen met eigen animaties in de zijbalk; Routines heet nu zo.
+- Echte gevulde iconen in het Bedrijfsbrein en de Instellingen; geen balk meer naast een geciteerd bericht.
 ]]></description>
-            <enclosure url="https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610121440/Meet-Sprite-0.1-202610121440-macOS.zip" length="110179470" type="application/octet-stream" sparkle:edSignature="7sSUKXJ10tkKnabgsS7K03ayAUVGwTN70gsn/YJLx8UcZUV1xmpjA95aJ6aoBQyMzim4OR5CNFak26oDucNvDA=="></enclosure>
+            <enclosure url="https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610121513/Meet-Sprite-0.1-202610121513-macOS.zip" length="110288916" type="application/octet-stream" sparkle:edSignature="96QH8DJbo5+fATItrx05rZT1SoFwfrSO1k0GUgfbZEllM9N2Ca1hRBDTsf3tfnsS5AkB9C9UuaB3JtOaMxs2Dw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: lUImsvq21bJ0sS40sdVzqjQr36XyrF5CmGpNLDdTOSCIPKJDP6F/jlzZpFzxTyO4F/Evi7+h91NyxcAslUrBBg==
-length: 1587
+edSignature: XJkuM+b1GSd7w8d3sxgVEmljqraHwfJrUPc+X6D+XgH9DQZwjZSp3TyW9Zv9BbF1Q7fj4o2le+xqgw8odi1YDg==
+length: 1638
 -->
