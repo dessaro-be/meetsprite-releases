@@ -5,18 +5,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Meet Sprite</title>
         <item>
             <title>0.1</title>
-            <pubDate>Mon, 12 Oct 2026 09:02:43 +0200</pubDate>
+            <pubDate>Mon, 12 Oct 2026 14:49:18 +0200</pubDate>
             <link>https://app.meetsprite.com</link>
-            <sparkle:version>202610120856</sparkle:version>
+            <sparkle:version>202610121440</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Sprites antwoorden sneller: het antwoord begint meteen binnen te stromen en "denkt na" stopt zodra het antwoord er is.
-- Minder achtergrondverkeer tijdens een gesprek.
+            <description sparkle:format="markdown"><![CDATA[- Taken is één tijdlijn: herinneringen en wat je Sprites later doen, per moment (Te laat, Vandaag, Later).
+- Routines heet nu zo, met iconen die zeggen wat ze zijn; doelen zijn voorlopig verborgen.
+- Een geciteerd bericht heeft geen balk meer links; de cloudcomputer toont minder uitleg.
+- Echte gevulde iconen in het Bedrijfsbrein en de Instellingen.
 ]]></description>
-            <enclosure url="https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610120856/Meet-Sprite-0.1-202610120856-macOS.zip" length="109815994" type="application/octet-stream" sparkle:edSignature="xBEcga+wem0hjQSq467I0dtm0t2U/WBWci4JiQzWxrhbO/gZemA50iVfjxFBxoMEdS5JXIGg7M3zyiLu0WI/DA=="></enclosure>
+            <enclosure url="https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610121440/Meet-Sprite-0.1-202610121440-macOS.zip" length="110179470" type="application/octet-stream" sparkle:edSignature="7sSUKXJ10tkKnabgsS7K03ayAUVGwTN70gsn/YJLx8UcZUV1xmpjA95aJ6aoBQyMzim4OR5CNFak26oDucNvDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Ieuh7NX43UMhYbts4rtvdYx73o+OYyj57uu4O1rTNcZ7b4GOaqGNDExaFKiW61edoF3gL8+xzPJHxxXBWfGHAA==
-length: 1403
+edSignature: lUImsvq21bJ0sS40sdVzqjQr36XyrF5CmGpNLDdTOSCIPKJDP6F/jlzZpFzxTyO4F/Evi7+h91NyxcAslUrBBg==
+length: 1587
 -->
