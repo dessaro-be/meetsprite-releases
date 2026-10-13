@@ -5,19 +5,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Meet Sprite</title>
         <item>
             <title>0.1</title>
-            <pubDate>Mon, 12 Oct 2026 18:02:39 +0200</pubDate>
+            <pubDate>Tue, 13 Oct 2026 09:49:55 +0200</pubDate>
             <link>https://app.meetsprite.com</link>
-            <sparkle:version>202610121752</sparkle:version>
+            <sparkle:version>202610130942</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Nieuwe kennismaking: één slim veld voor je zaak, je mail en agenda in één keer verbinden, apps aantikken, en je Sprite stelt zelf je eerste taken voor.
-- Oranje knoppen en vinkjes in de hele kennismaking.
-- Een gesprek dat traag laadt toont laadblokjes; het welkomstscherm typt zelf een voorbeeld.
+            <description sparkle:format="markdown"><![CDATA[- Je Mac blijft verbonden terwijl je Sprite om toestemming vraagt; de app bevriest niet meer.
+- Klikken op je Mac lukt weer, en Cua Driver 0.34.1 opent vensters betrouwbaarder.
+- Onder elk antwoord staat het tijdstip, met een scheiding per dag.
+- Een vraagkaart toont wat je antwoordde.
 ]]></description>
-            <enclosure url="https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610121752/Meet-Sprite-0.1-202610121752-macOS.zip" length="110901435" type="application/octet-stream" sparkle:edSignature="QiBe74/O4X8xJLhjTje2awwYCkJA76eciEGeoQffczsKnR5cFaHtfBUAGFIOCgOEN7x+ahCBPDiOn54ig59uBA=="></enclosure>
+            <enclosure url="https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610130942/Meet-Sprite-0.1-202610130942-macOS.zip" length="111558117" type="application/octet-stream" sparkle:edSignature="Rn4CuqfcIhPRtoBoiEKuV5kI2RKLN1x9RJ6UoT6WuyyEQ6zAY/ryUAp6hICuf71H1lwv3wRmsXHrSoD0fCczAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: UJSmkwFRqov6cRBZN45vhVLUQv6ugQu3YdEP73e9FJFUmsLV2vvKQH1sDarbjsv5MUNJxyhz9q5VH6lyKmwzDA==
-length: 1537
+edSignature: oi6LMPcX45rdGMqJRbgrLyUcEo393hjYAccYjWlEh6eatQiOuMjgkqJa3PXDbKVaVZC0ZVHd8OIuSJLH5ns7CA==
+length: 1520
 -->
