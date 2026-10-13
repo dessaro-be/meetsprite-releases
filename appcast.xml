@@ -5,18 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Meet Sprite</title>
         <item>
             <title>0.1</title>
-            <pubDate>Tue, 13 Oct 2026 11:17:22 +0200</pubDate>
+            <pubDate>Tue, 13 Oct 2026 12:28:19 +0200</pubDate>
             <link>https://app.meetsprite.com</link>
-            <sparkle:version>202610131104</sparkle:version>
+            <sparkle:version>202610131210</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Het tijdstip staat rechtsonder in de tekstballon van je Sprite.
-- Minder overbodige verzoeken terwijl je Sprite iets op je Mac doet.
+            <description sparkle:format="markdown"><![CDATA[- Antwoorden van je Sprite schuiven niet meer over de regels erboven en eronder; bron en tijdstip staan netjes onder de tekstballon.
 ]]></description>
-            <enclosure url="https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610131104/Meet-Sprite-0.1-202610131104-macOS.zip" length="111568104" type="application/octet-stream" sparkle:edSignature="fcsnty58vC7RWc5/qaI4W9JaDDM9AvOVmCIEA6Vu4PHKo3sz6YMmMsJ0L367HhozoK4E58Dy19+IrmDG81T3Cw=="></enclosure>
+            <enclosure url="https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610131210/Meet-Sprite-0.1-202610131210-macOS.zip" length="111603479" type="application/octet-stream" sparkle:edSignature="uQFkT1hBJzq9aafwuoOL0tFS7YXwU1toPsNHmdU844N2gPmZb+wIDUNdK9RPFo0Gc4qaxIKwrPq4CW0zfNRmAQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: vkeASnkJ/2eZ79gF4g8ImF6ILTEvKCAJaCGYQeyzSdO/jXzw/juaQCHfqKJozdifCd9NHbCljuzmkSlF+9KTBA==
-length: 1368
+edSignature: jGAFIv3HKDxRm7J8MBWttXM5e0cVhiDDpqlrJiM/NfeKGB0cgVV4PcaWOJLbUvLx7XHB//STZsT27Q5Xda6fCw==
+length: 1366
 -->
