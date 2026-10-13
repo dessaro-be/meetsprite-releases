@@ -5,17 +5,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Meet Sprite</title>
         <item>
             <title>0.1</title>
-            <pubDate>Tue, 13 Oct 2026 12:28:19 +0200</pubDate>
+            <pubDate>Tue, 13 Oct 2026 17:02:01 +0200</pubDate>
             <link>https://app.meetsprite.com</link>
-            <sparkle:version>202610131210</sparkle:version>
+            <sparkle:version>202610131640</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Antwoorden van je Sprite schuiven niet meer over de regels erboven en eronder; bron en tijdstip staan netjes onder de tekstballon.
+            <description sparkle:format="markdown"><![CDATA[- Een routine kan nu antwoorden als concept klaarzetten: één vinkje bij het aanmaken, of "Toestaan" als hij toestemming mist.
+- WhatsApp verbinden vraagt eerst je WhatsApp Business-account-ID, met uitleg waar je het vindt.
+- Routines weten welke dag het is.
 ]]></description>
-            <enclosure url="https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610131210/Meet-Sprite-0.1-202610131210-macOS.zip" length="111603479" type="application/octet-stream" sparkle:edSignature="uQFkT1hBJzq9aafwuoOL0tFS7YXwU1toPsNHmdU844N2gPmZb+wIDUNdK9RPFo0Gc4qaxIKwrPq4CW0zfNRmAQ=="></enclosure>
+            <enclosure url="https://github.com/dessaro-be/meetsprite-releases/releases/download/macos-v0.1-202610131640/Meet-Sprite-0.1-202610131640-macOS.zip" length="111665637" type="application/octet-stream" sparkle:edSignature="LO5oGUn5Z8upj42psUl/mz0FV0S42fKqSPWyW+zraqaQN/n5zgGe4R8c/z3cp9BKRyg4yEdrcTsyS/ClkNQBCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: jGAFIv3HKDxRm7J8MBWttXM5e0cVhiDDpqlrJiM/NfeKGB0cgVV4PcaWOJLbUvLx7XHB//STZsT27Q5Xda6fCw==
-length: 1366
+edSignature: SXGgwZes/h8fVyMJxmlfeOUDtwd8Qw9tEBQtFejwDabpmu1YWoZrjW/OIVDPY7gOalXTMSAHuqwhmZpkvCySDg==
+length: 1493
 -->
